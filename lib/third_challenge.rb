@@ -1,5 +1,11 @@
 def third_challenge
-  epic_tragedy = {
+  epic_tragedy = [:montague]
+  [:patriarch] [:name] = 
+  "Michael Jordan"
+  
+  puts epic_tragedy
+  
+ {
       :montague => {
       
       :patriarch => {name: "Lord Montague", age: "53" },
